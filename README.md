@@ -6,6 +6,22 @@
 
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
+### ERC-721 Token Name
+
+ERC-721 Token Name = Star Token
+
+### ERC-721 Token Name
+
+ERC-721 Token Symbol = ST
+
+### Token Address
+
+0x388Ea662EF2c223eC0B047D41Bf3c0f362142ad5
+
+### Transaction Hash
+
+0xbf8c1cc05638ee703ae4096c4599757dbfb4b1b41155cb27e130bf158c0dcd1b
+
 ### Dependencies
 
 For this project, you will need to have:
